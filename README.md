@@ -27,7 +27,7 @@ Spawn Selector for QB-Core Framework :eagle:
 - [qb-garages](https://github.com/qbcore-framework/qb-garages) - For house garages
 
 ## Screenshots
-![Spawn selector](https://i.imgur.com/nz0mPGe.png)
+![Spawn selector](https://cdn.discordapp.com/attachments/1064967836918882344/1066991926999523348/image.png)
 
 ## Features
 - Ability to select spawn after selecting the character
