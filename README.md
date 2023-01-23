@@ -1,6 +1,12 @@
 # qb-spawn
 Spawn Selector for QB-Core Framework :eagle:
 
+
+If needing help please do join my discord below 
+
+discord for support - https://discord.gg/GB3QJRDSEx
+
+
 # License
 
     QBCore Framework
